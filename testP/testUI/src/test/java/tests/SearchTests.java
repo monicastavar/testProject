@@ -20,11 +20,9 @@ public class SearchTests extends BaseTest {
 
     @Test
     public void searchMobileItems() {
-//        homePage.openPage();
         homePage.openHomePage();
-        searchBar.searchForMatchingProducts("mobile");
-        searchBar.clickOnSearch();
-        searchResultsPage.verifySearchresultpageIsOpened();
+        String p = searchBar.searchForMatchingProducts("mobile");
+        searchResultsPage.verifySearchresultpageIsOpened(p);
     }
 
 }

@@ -17,7 +17,6 @@ public class BaseTest {
     SearchBarPO searchBar;
 
 
-
     @BeforeClass
     public void setup() {
         System.setProperty("webdriver.chrome.driver", fileReader.getProperty("chromeDriverPath"));
