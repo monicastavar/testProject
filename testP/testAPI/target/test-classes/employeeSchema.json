@@ -10,15 +10,11 @@
     },
     "age": {
       "type": "string"
-    },
-    "id": {
-      "type": "string"
     }
   },
   "required": [
     "name",
     "salary",
-    "age",
-    "id"
+    "age"
   ]
 }

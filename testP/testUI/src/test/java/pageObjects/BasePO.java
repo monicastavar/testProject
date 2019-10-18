@@ -17,7 +17,6 @@ public class BasePO {
     }
 
     public void waitElement(By locator) {
-
         wait.until(ExpectedConditions.visibilityOfElementLocated(locator));
     }
 
