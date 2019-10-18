@@ -1,15 +1,15 @@
 package pageObjects;
 
+import common.DataVariables;
 import common.FileReader;
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
+import org.testng.log4testng.Logger;
 
 public class HomePagePO extends BasePO {
 
     Modals modal = new Modals(driver);
-    private final Logger LOGGER = LoggerFactory.getLogger(HomePagePO.class);
+    private static final Logger LOGGER = Logger.getLogger(HomePagePO.class);
 
 
     public HomePagePO(WebDriver driver) {
@@ -18,6 +18,8 @@ public class HomePagePO extends BasePO {
 
     /*---------------------------- Web Elements -----------------------------*/
 
+    By firstSuggestedName = By.xpath("(.//*[@class=\"vw-productSlider\"]//div[@class=\"name\"])[1]");
+    By firstSuggestedProduct = By.xpath("(.//*[@class=\"vw-productSlider\"]//a)[1]");
 
     /*---------------------------- Web Methods -----------------------------*/
 
@@ -25,7 +27,16 @@ public class HomePagePO extends BasePO {
         FileReader fileReader = new FileReader();
         String url = fileReader.getProperty("url");
         driver.get(url);
-        LOGGER.info("..............Page " + url + " is Launched.............");
+        LOGGER.debug("..............Page " + url + " is Launched.............");
         modal.acceptCookie();
     }
+
+    public void selectFirstProduct() {
+
+        DataVariables.setProduct(getTextOfElement(firstSuggestedName));
+        clickElement(firstSuggestedProduct);
+
+    }
+
+
 }

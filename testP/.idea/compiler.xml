@@ -10,5 +10,10 @@
         <module name="testAPI" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="testAPI" target="1.5" />
+      <module name="testProj" target="1.5" />
+      <module name="testUI" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>

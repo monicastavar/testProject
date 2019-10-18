@@ -1,19 +1,16 @@
 package pageObjects;
 
+import common.DataVariables;
 import junit.framework.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class SearchResultsPO extends BasePO {
 
-    private WebDriver driver;
-    private WebDriverWait wait;
 
     public SearchResultsPO(WebDriver driver) {
         super(driver);
-        this.driver = driver;
-        wait = new WebDriverWait(driver, 10);
+
     }
 
     /*---------------------------- Web Elements -----------------------------*/
@@ -23,21 +20,15 @@ public class SearchResultsPO extends BasePO {
 
     /*---------------------------- Web Methods -----------------------------*/
 
-    public void verifySearchresultpageIsOpened(String productName) {
+    public void verifySearchResultPageIsOpened() {
 
         String url = driver.getCurrentUrl();
         url = url.replace("%20", "");
-        String title = driver.findElement(pageTitle).getText();
+        String title = getTextOfElement(pageTitle);
+        String product = DataVariables.getProduct();
 
-        Assert.assertTrue("Browser url doesn't contain " + productName + ", instead it's " + url, url.contains(productName));
-        Assert.assertTrue("Page title url doesn't contain " + productName + ", instead it's " + title, title.contains(productName));
+        Assert.assertTrue("Browser url doesn't contain " + product + ", instead it's " + url, url.contains(product));
+        Assert.assertTrue("Page title url doesn't contain " + product + ", instead it's " + title, title.contains(product));
 
     }
-
-//    public SearchResultsPO(WebDriver driver){
-//        this.driver = driver;
-//    }
-//}
-
-
 }
