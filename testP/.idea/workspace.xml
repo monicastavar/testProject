@@ -1,123 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e31dda7-5a53-4831-bdbb-57979f91e95d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_mercury_mercury_repo_api_1_0_0_alpha_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_mercury_mercury_repo_cache_fs_1_0_0_alpha_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_mercury_mercury_repo_local_m2_1_0_0_alpha_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_mercury_mercury_repo_remote_m2_1_0_0_alpha_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_mercury_mercury_repo_virtual_1_0_0_alpha_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_mercury_mercury_transport_api_1_0_0_alpha_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_mercury_mercury_transport_http_1_0_0_alpha_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_mercury_mercury_util_1_0_0_alpha_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_plugins_maven_surefire_plugin_3_0_0_M3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_shared_file_management_1_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_shared_maven_shared_io_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_surefire_maven_surefire_common_3_0_0_M3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_surefire_surefire_api_3_0_0_M3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_surefire_surefire_booter_3_0_0_M3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_surefire_surefire_logger_api_3_0_0_M3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_wagon_wagon_provider_api_1_0_alpha_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_classworlds_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_component_annotations_1_0_beta_3_0_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_container_default_1_0_alpha_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_interactivity_api_1_0_alpha_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_interpolation_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_java_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_lang_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_utils_1_5_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_wstx_asl_3_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jetty_6_1_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jetty_client_6_1_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jetty_sslengine_6_1_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_jetty_util_6_1_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_servlet_api_2_5_6_1_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_7_0_beta.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sat4j_org_sat4j_core_2_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sat4j_org_sat4j_pb_2_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_28.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_jdk14_1_5_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_simple_1_7_28.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_plexus_plexus_plugin_manager_1_0_alpha_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_spice_model_builder_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_14_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_uncommons_reportng_1_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__velocity_velocity_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__velocity_velocity_dep_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testAPI/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testAPI/testAPI.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testProj.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testUI/src/test/java/common/DataVariables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testUI/src/test/java/pageObjects/CheckoutAddressPO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testUI/src/test/java/pageObjects/CheckoutSummaryPO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testUI/src/test/java/pageObjects/LoginPO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testUI/src/test/java/pageObjects/NavigationBarPO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testUI/src/test/java/pageObjects/OrderSummaryPO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testUI/target/test-classes/common/DataVariables.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testUI/target/test-classes/pageObjects/CheckoutAddressPO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testUI/target/test-classes/pageObjects/CheckoutSummaryPO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testUI/target/test-classes/pageObjects/LoginPO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testUI/target/test-classes/pageObjects/NavigationBarPO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testUI/target/test-classes/pageObjects/OrderSummaryPO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testUI/testUI.iml" afterDir="false" />
+    <list default="true" id="5e31dda7-5a53-4831-bdbb-57979f91e95d" name="Default Changelist" comment="commit UI tests">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testAPI/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testAPI/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testAPI/testAPI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/testAPI/testAPI.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testUI/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testUI/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testUI/src/test/java/common/PageObjectManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testUI/src/test/java/common/WebdriverManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testUI/src/test/java/pageObjects/BasePO.java" beforeDir="false" afterPath="$PROJECT_DIR$/testUI/src/test/java/pageObjects/BasePO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testUI/src/test/java/pageObjects/CheckoutPO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testUI/src/test/java/pageObjects/FilterPO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testUI/src/test/java/pageObjects/HomePagePO.java" beforeDir="false" afterPath="$PROJECT_DIR$/testUI/src/test/java/pageObjects/HomePagePO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testUI/src/test/java/pageObjects/Modals.java" beforeDir="false" afterPath="$PROJECT_DIR$/testUI/src/test/java/pageObjects/Modals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testUI/src/test/java/pageObjects/MyDataPO.java" beforeDir="false" afterPath="$PROJECT_DIR$/testUI/src/test/java/pageObjects/MyDataPO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testUI/src/test/java/pageObjects/PaymentMethodPO.java" beforeDir="false" afterPath="$PROJECT_DIR$/testUI/src/test/java/pageObjects/PaymentMethodPO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testUI/src/test/java/pageObjects/ProductPO.java" beforeDir="false" afterPath="$PROJECT_DIR$/testUI/src/test/java/pageObjects/ProductPO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testUI/src/test/java/pageObjects/SearchBarPO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testUI/src/test/java/pageObjects/SearchResultsPO.java" beforeDir="false" afterPath="$PROJECT_DIR$/testUI/src/test/java/pageObjects/SearchResultsPO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testUI/src/test/java/pageObjects/ShopcartPO.java" beforeDir="false" afterPath="$PROJECT_DIR$/testUI/src/test/java/pageObjects/ShopcartPO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testUI/src/test/java/tests/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/testUI/src/test/java/tests/BaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testUI/src/test/java/tests/CheckoutTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/testUI/src/test/java/tests/CheckoutTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testUI/src/test/java/tests/LoginTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/testUI/src/test/java/tests/LoginTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testUI/src/test/java/tests/SearchTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/testUI/src/test/java/tests/SearchTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testUI/src/test/resources/Config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/testUI/src/test/resources/Config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testUI/src/test/resources/drivers/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/testUI/src/test/resources/drivers/chromedriver.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testUI/target/test-classes/Config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/testUI/target/test-classes/Config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testUI/target/test-classes/common/FileReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/testUI/target/test-classes/common/FileReader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testUI/target/test-classes/common/PageObjectManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testUI/target/test-classes/common/WebdriverManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testUI/target/test-classes/drivers/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/testUI/target/test-classes/drivers/chromedriver.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testUI/target/test-classes/pageObjects/BasePO.class" beforeDir="false" afterPath="$PROJECT_DIR$/testUI/target/test-classes/pageObjects/BasePO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testUI/target/test-classes/pageObjects/CheckoutPO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testUI/target/test-classes/pageObjects/FilterPO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testUI/target/test-classes/pageObjects/HomePagePO.class" beforeDir="false" afterPath="$PROJECT_DIR$/testUI/target/test-classes/pageObjects/HomePagePO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testUI/target/test-classes/pageObjects/Modals.class" beforeDir="false" afterPath="$PROJECT_DIR$/testUI/target/test-classes/pageObjects/Modals.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testUI/target/test-classes/pageObjects/MyDataPO.class" beforeDir="false" afterPath="$PROJECT_DIR$/testUI/target/test-classes/pageObjects/MyDataPO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testUI/target/test-classes/pageObjects/PaymentMethodPO.class" beforeDir="false" afterPath="$PROJECT_DIR$/testUI/target/test-classes/pageObjects/PaymentMethodPO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testUI/target/test-classes/pageObjects/ProductPO.class" beforeDir="false" afterPath="$PROJECT_DIR$/testUI/target/test-classes/pageObjects/ProductPO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testUI/target/test-classes/pageObjects/SearchBarPO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testUI/target/test-classes/pageObjects/SearchResultsPO.class" beforeDir="false" afterPath="$PROJECT_DIR$/testUI/target/test-classes/pageObjects/SearchResultsPO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testUI/target/test-classes/pageObjects/ShopcartPO.class" beforeDir="false" afterPath="$PROJECT_DIR$/testUI/target/test-classes/pageObjects/ShopcartPO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testUI/target/test-classes/tests/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/testUI/target/test-classes/tests/BaseTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testUI/target/test-classes/tests/CheckoutTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/testUI/target/test-classes/tests/CheckoutTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testUI/target/test-classes/tests/LoginTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/testUI/target/test-classes/tests/LoginTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testUI/target/test-classes/tests/SearchTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/testUI/target/test-classes/tests/SearchTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testUI/target/test-classes/pageObjects/NavigationBarPO.class" beforeDir="false" afterPath="$PROJECT_DIR$/testUI/target/test-classes/pageObjects/NavigationBarPO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testUI/testUI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/testUI/testUI.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/testUI/target/" />
@@ -148,36 +39,77 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testUI/src/test/java/pageObjects/HomePagePO.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testAPI/src/test/java/tests/UpdateTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="25" selection-start-line="6" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testUI/src/test/java/pageObjects/LoginPO.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="50" column="58" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="58" />
+            <state relative-caret-position="400">
+              <caret line="27" column="48" lean-forward="true" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#224#225#0" expanded="true" />
-                <element signature="e#253#254#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testUI/src/test/java/tests/LoginTests.java">
+        <entry file="file://$PROJECT_DIR$/testAPI/src/test/java/tests/CreateTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="25" column="60" selection-start-line="25" selection-start-column="60" selection-end-line="25" selection-end-column="60" />
+            <state relative-caret-position="91">
+              <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testAPI/src/test/java/tests/ReadTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testAPI/src/test/java/base/BaseClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="63" lean-forward="true" selection-start-line="9" selection-start-column="63" selection-end-line="9" selection-end-column="63" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testUI/src/test/java/common/DataVariables.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="12" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testAPI/src/test/java/base/TestDataVariables.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="33" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#205#213#0" expanded="true" />
+                <element signature="e#152#153#0" expanded="true" />
+                <element signature="e#187#188#0" expanded="true" />
+                <element signature="e#224#225#0" expanded="true" />
+                <element signature="e#254#255#0" expanded="true" />
+                <element signature="e#302#303#0" expanded="true" />
+                <element signature="e#328#329#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -186,8 +118,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testUI/src/test/java/tests/BaseTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="61" column="48" selection-start-line="61" selection-start-column="48" selection-end-line="61" selection-end-column="48" />
+            <state relative-caret-position="136">
+              <caret line="29" column="2" selection-start-line="29" selection-start-column="2" selection-end-line="63" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -195,11 +127,40 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/testUI/pom.xml">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testUI/src/test/java/pageObjects/BasePO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+            <state relative-caret-position="476">
+              <caret line="35" column="52" selection-start-line="35" selection-start-column="52" selection-end-line="35" selection-end-column="52" />
+              <folding>
+                <element signature="e#570#571#0" expanded="true" />
+                <element signature="e#621#622#0" expanded="true" />
+                <element signature="e#961#962#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testAPI/src/test/java/tests/DeleteTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testAPI/src/test/java/base/PrerequisteMethods.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -209,8 +170,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Tag Library Descriptor" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -218,6 +179,7 @@
     <findStrings>
       <find>searchBar</find>
       <find>info</find>
+      <find />
     </findStrings>
     <replaceStrings>
       <replace>navigationBar</replace>
@@ -235,7 +197,6 @@
         <option value="$PROJECT_DIR$/testUI/src/test/java/pageObjects/MyDataPO.java" />
         <option value="$PROJECT_DIR$/testUI/src/test/java/tests/CheckoutTests.java" />
         <option value="$PROJECT_DIR$/testUI/src/test/java/pageObjects/SearchBarPO.java" />
-        <option value="$PROJECT_DIR$/testUI/src/test/java/pageObjects/NavigationBarPO.java" />
         <option value="$PROJECT_DIR$/testUI/src/test/resources/Config.properties" />
         <option value="$PROJECT_DIR$/testUI/src/test/java/pageObjects/ProductPO.java" />
         <option value="$PROJECT_DIR$/testUI/src/test/java/pageObjects/PaymentMethodPO.java" />
@@ -248,15 +209,36 @@
         <option value="$PROJECT_DIR$/testUI/src/test/java/tests/BaseTest.java" />
         <option value="$PROJECT_DIR$/testUI/src/test/java/pageObjects/LoginPO.java" />
         <option value="$PROJECT_DIR$/testUI/src/test/java/tests/LoginTests.java" />
-        <option value="$PROJECT_DIR$/testUI/pom.xml" />
         <option value="$PROJECT_DIR$/testUI/src/test/config/settings.tld" />
+        <option value="$PROJECT_DIR$/testUI/src/test/java/pageObjects/NavigationBarPO.java" />
+        <option value="$PROJECT_DIR$/testAPI/src/test/java/tests/TestBaseClass.java" />
+        <option value="$PROJECT_DIR$/testAPI/src/test/java/resources/ConfigAPI.properties" />
+        <option value="$PROJECT_DIR$/testAPI/src/test/java/base/FileReader.java" />
+        <option value="$PROJECT_DIR$/testAPI/src/test/java/base/TestBaseClass.java" />
+        <option value="$PROJECT_DIR$/testAPI/src/test/resources/ConfigAPI.properties" />
+        <option value="$PROJECT_DIR$/testUI/pom.xml" />
+        <option value="$PROJECT_DIR$/testAPI/src/test/resources/employeeSchema.json" />
+        <option value="$PROJECT_DIR$/testAPI/src/test/java/base/BaseTest.java" />
+        <option value="$PROJECT_DIR$/testAPI/src/test/java/tests/SchemaTests.java" />
+        <option value="$PROJECT_DIR$/testAPI/src/test/java/base/PUTMethods.java" />
+        <option value="$PROJECT_DIR$/testAPI/pom.xml" />
+        <option value="$PROJECT_DIR$/testAPI/target/test-classes/ConfigAPI.properties" />
+        <option value="$PROJECT_DIR$/testAPI/target/test-classes/employeeSchema.json" />
+        <option value="$PROJECT_DIR$/testAPI/src/test/java/base/Methods.java" />
+        <option value="$PROJECT_DIR$/testAPI/src/test/java/base/TestDataVariables.java" />
+        <option value="$PROJECT_DIR$/testAPI/src/test/java/base/BaseClass.java" />
+        <option value="$PROJECT_DIR$/testAPI/src/test/java/tests/UpdateTests.java" />
+        <option value="$PROJECT_DIR$/testAPI/src/test/java/tests/ReadTests.java" />
+        <option value="$PROJECT_DIR$/testAPI/src/test/java/tests/DeleteTests.java" />
+        <option value="$PROJECT_DIR$/testAPI/src/test/java/base/PrerequisteMethods.java" />
+        <option value="$PROJECT_DIR$/testAPI/src/test/java/tests/CreateTests.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="width" value="978" />
-    <option name="height" value="1039" />
+    <option name="y" value="22" />
+    <option name="width" value="1920" />
+    <option name="height" value="985" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -265,6 +247,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -275,62 +258,121 @@
             <path>
               <item name="testProj" type="b2602c69:ProjectViewProjectNode" />
               <item name="testP" type="462c0819:PsiDirectoryNode" />
-              <item name="testUI" type="462c0819:PsiDirectoryNode" />
+              <item name="testAPI" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testProj" type="b2602c69:ProjectViewProjectNode" />
               <item name="testP" type="462c0819:PsiDirectoryNode" />
-              <item name="testUI" type="462c0819:PsiDirectoryNode" />
+              <item name="testAPI" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testProj" type="b2602c69:ProjectViewProjectNode" />
               <item name="testP" type="462c0819:PsiDirectoryNode" />
-              <item name="testUI" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testProj" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testP" type="462c0819:PsiDirectoryNode" />
-              <item name="testUI" type="462c0819:PsiDirectoryNode" />
+              <item name="testAPI" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testProj" type="b2602c69:ProjectViewProjectNode" />
               <item name="testP" type="462c0819:PsiDirectoryNode" />
-              <item name="testUI" type="462c0819:PsiDirectoryNode" />
+              <item name="testAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testProj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testP" type="462c0819:PsiDirectoryNode" />
+              <item name="testAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testProj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testP" type="462c0819:PsiDirectoryNode" />
+              <item name="testAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testProj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testP" type="462c0819:PsiDirectoryNode" />
+              <item name="testAPI" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testProj" type="b2602c69:ProjectViewProjectNode" />
               <item name="testP" type="462c0819:PsiDirectoryNode" />
-              <item name="testUI" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="generated-test-sources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testProj" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testP" type="462c0819:PsiDirectoryNode" />
-              <item name="testUI" type="462c0819:PsiDirectoryNode" />
+              <item name="testAPI" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
               <item name="test-classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testProj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testP" type="462c0819:PsiDirectoryNode" />
+              <item name="testUI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testProj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testP" type="462c0819:PsiDirectoryNode" />
+              <item name="testUI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testProj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testP" type="462c0819:PsiDirectoryNode" />
+              <item name="testUI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testProj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testP" type="462c0819:PsiDirectoryNode" />
+              <item name="testUI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testProj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testP" type="462c0819:PsiDirectoryNode" />
+              <item name="testUI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/testAPI/target/test-classes" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\gitClone\testProject\testP\testAPI\target\test-classes" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="base" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\gitClone\testProject\testP\testAPI\src\test" />
+      <recent name="C:\gitClone\testProject\testP\testUI\src\test\resources" />
+      <recent name="C:\gitClone\testProject\testP" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -344,9 +386,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.CheckoutTests.validateCheckoutProcess">
-    <configuration name="CheckoutTests.validateCheckoutProcess" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="testUI" />
+  <component name="RunManager" selected="TestNG.tests">
+    <configuration name="DeleteTests.validateDeleteResponseCode" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testAPI" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="tests.*" />
@@ -354,8 +396,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.CheckoutTests" />
-      <option name="METHOD_NAME" value="validateCheckoutProcess" />
+      <option name="MAIN_CLASS_NAME" value="tests.DeleteTests" />
+      <option name="METHOD_NAME" value="validateDeleteResponseCode" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -363,8 +405,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginTests.loginWithEmail" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="testUI" />
+    <configuration name="UpdateTests.RegistrationSuccessful" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testAPI" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="tests.*" />
@@ -372,8 +414,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.LoginTests" />
-      <option name="METHOD_NAME" value="loginWithEmail" />
+      <option name="MAIN_CLASS_NAME" value="tests.UpdateTests" />
+      <option name="METHOD_NAME" value="RegistrationSuccessful" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -381,8 +423,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginTests.loginWithInalidCredentials" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="testUI" />
+    <configuration name="UpdateTests.validatePUTResponse" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testAPI" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="tests.*" />
@@ -390,8 +432,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.LoginTests" />
-      <option name="METHOD_NAME" value="loginWithInalidCredentials" />
+      <option name="MAIN_CLASS_NAME" value="tests.UpdateTests" />
+      <option name="METHOD_NAME" value="validatePUTResponse" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -399,8 +441,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginTests.loginWithNonMatchingCredentials" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="testUI" />
+    <configuration name="UpdateTests.validatePUTResponseAndSchema" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testAPI" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="tests.*" />
@@ -408,8 +450,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.LoginTests" />
-      <option name="METHOD_NAME" value="loginWithNonMatchingCredentials" />
+      <option name="MAIN_CLASS_NAME" value="tests.UpdateTests" />
+      <option name="METHOD_NAME" value="validatePUTResponseAndSchema" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -417,8 +459,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginTests.loginWithRakutenUserID" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="testUI" />
+    <configuration name="tests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testAPI" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="tests.*" />
@@ -426,9 +468,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.LoginTests" />
-      <option name="METHOD_NAME" value="loginWithRakutenUserID" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
       <properties />
       <listeners />
       <method v="2">
@@ -437,11 +477,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.CheckoutTests.validateCheckoutProcess" />
-        <item itemvalue="TestNG.LoginTests.loginWithEmail" />
-        <item itemvalue="TestNG.LoginTests.loginWithNonMatchingCredentials" />
-        <item itemvalue="TestNG.LoginTests.loginWithRakutenUserID" />
-        <item itemvalue="TestNG.LoginTests.loginWithInalidCredentials" />
+        <item itemvalue="TestNG.tests" />
+        <item itemvalue="TestNG.DeleteTests.validateDeleteResponseCode" />
+        <item itemvalue="TestNG.UpdateTests.RegistrationSuccessful" />
+        <item itemvalue="TestNG.UpdateTests.validatePUTResponse" />
+        <item itemvalue="TestNG.UpdateTests.validatePUTResponseAndSchema" />
       </list>
     </recent_temporary>
   </component>
@@ -456,50 +496,51 @@
       <option name="presentableId" value="Default" />
       <updated>1571390143523</updated>
       <workItem from="1571390146742" duration="1951000" />
-      <workItem from="1571392282878" duration="15616000" />
+      <workItem from="1571392282878" duration="17919000" />
+      <workItem from="1571410253372" duration="16613000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CheckoutTests_validateCheckoutProcess - 2019.10.18 at 16h 19m 34s.xml">
-      <configuration name="CheckoutTests.validateCheckoutProcess" configurationId="TestNG" />
+    <history-entry file="UpdateTests_validatePUTResponse - 2019.10.18 at 23h 08m 59s.xml">
+      <configuration name="UpdateTests.validatePUTResponse" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CheckoutTests_validateCheckoutProcess - 2019.10.18 at 16h 27m 02s.xml">
-      <configuration name="CheckoutTests.validateCheckoutProcess" configurationId="TestNG" />
+    <history-entry file="UpdateTests_validatePUTResponse - 2019.10.18 at 23h 09m 35s.xml">
+      <configuration name="UpdateTests.validatePUTResponse" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CheckoutTests_validateCheckoutProcess - 2019.10.18 at 16h 30m 47s.xml">
-      <configuration name="CheckoutTests.validateCheckoutProcess" configurationId="TestNG" />
+    <history-entry file="UpdateTests_validatePUTResponse - 2019.10.18 at 23h 14m 31s.xml">
+      <configuration name="UpdateTests.validatePUTResponse" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CheckoutTests_validateCheckoutProcess - 2019.10.18 at 16h 33m 45s.xml">
-      <configuration name="CheckoutTests.validateCheckoutProcess" configurationId="TestNG" />
+    <history-entry file="UpdateTests_RegistrationSuccessful - 2019.10.18 at 23h 17m 54s.xml">
+      <configuration name="UpdateTests.RegistrationSuccessful" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CheckoutTests_validateCheckoutProcess - 2019.10.18 at 16h 34m 22s.xml">
-      <configuration name="CheckoutTests.validateCheckoutProcess" configurationId="TestNG" />
+    <history-entry file="DeleteTests_validateDeleteResponseCode - 2019.10.18 at 23h 39m 32s.xml">
+      <configuration name="DeleteTests.validateDeleteResponseCode" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CheckoutTests_validateCheckoutProcess - 2019.10.18 at 16h 50m 21s.xml">
-      <configuration name="CheckoutTests.validateCheckoutProcess" configurationId="TestNG" />
+    <history-entry file="DeleteTests_validateDeleteResponseCode - 2019.10.18 at 23h 40m 47s.xml">
+      <configuration name="DeleteTests.validateDeleteResponseCode" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CheckoutTests_validateCheckoutProcess - 2019.10.18 at 16h 54m 17s.xml">
-      <configuration name="CheckoutTests.validateCheckoutProcess" configurationId="TestNG" />
+    <history-entry file="tests - 2019.10.18 at 23h 53m 57s.xml">
+      <configuration name="tests" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CheckoutTests_validateCheckoutProcess - 2019.10.18 at 16h 59m 11s.xml">
-      <configuration name="CheckoutTests.validateCheckoutProcess" configurationId="TestNG" />
+    <history-entry file="tests - 2019.10.18 at 23h 55m 38s.xml">
+      <configuration name="tests" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CheckoutTests_validateCheckoutProcess - 2019.10.18 at 17h 03m 36s.xml">
-      <configuration name="CheckoutTests.validateCheckoutProcess" configurationId="TestNG" />
+    <history-entry file="tests - 2019.10.18 at 23h 57m 22s.xml">
+      <configuration name="tests" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CheckoutTests_validateCheckoutProcess - 2019.10.18 at 17h 05m 54s.xml">
-      <configuration name="CheckoutTests.validateCheckoutProcess" configurationId="TestNG" />
+    <history-entry file="tests - 2019.10.18 at 23h 58m 17s.xml">
+      <configuration name="tests" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17567000" />
+    <option name="totallyTimeSpent" value="36483000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25637585" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -508,7 +549,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32152975" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24504249" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -518,7 +559,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.0878187" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -533,6 +574,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit UI tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit UI tests" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/testUI/src/test/java/pageObjects/MyDataPO.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -540,24 +585,6 @@
           <caret line="21" selection-start-line="21" selection-end-line="21" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testUI/src/test/java/pageObjects/Modals.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testUI/src/test/java/pageObjects/NavigationBarPO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="31" column="41" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
-          <folding>
-            <element signature="e#2020#2021#0" expanded="true" />
-            <element signature="e#2080#2081#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -588,13 +615,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3-sources.jar!/org/testng/internal/Invoker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="592" selection-start-line="592" selection-end-line="592" />
         </state>
       </provider>
     </entry>
@@ -635,22 +655,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testUI/src/test/java/pageObjects/BasePO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="35" column="52" selection-start-line="35" selection-start-column="52" selection-end-line="35" selection-end-column="52" />
-          <folding>
-            <element signature="e#570#571#0" expanded="true" />
-            <element signature="e#621#622#0" expanded="true" />
-            <element signature="e#676#677#0" expanded="true" />
-            <element signature="e#734#735#0" expanded="true" />
-            <element signature="e#785#786#0" expanded="true" />
-            <element signature="e#845#846#0" expanded="true" />
-            <element signature="e#961#962#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/testUI/src/test/java/tests/SearchTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -682,16 +686,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testUI/src/test/java/tests/BaseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="61" column="48" selection-start-line="61" selection-start-column="48" selection-end-line="61" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/testUI/src/test/java/pageObjects/LoginPO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="179">
@@ -704,36 +698,266 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/testUI/target/surefire-reports/passed.png" />
+    <entry file="file://$PROJECT_DIR$/testUI/target/surefire-reports/index.html" />
+    <entry file="file://$PROJECT_DIR$/testUI/src/test/config.tld" />
+    <entry file="file://$PROJECT_DIR$/testUI/src/test/config/settings.tld" />
+    <entry file="file://$PROJECT_DIR$/testUI/src/test/java/pageObjects/Modals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testUI/src/test/java/pageObjects/NavigationBarPO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="65" column="43" selection-start-line="65" selection-start-column="43" selection-end-line="65" selection-end-column="43" />
+          <folding>
+            <element signature="e#2069#2070#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/testUI/src/test/java/tests/LoginTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="25" column="60" selection-start-line="25" selection-start-column="60" selection-end-line="25" selection-end-column="60" />
+        <state relative-caret-position="204">
+          <caret line="12" column="29" selection-start-line="12" selection-end-line="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testUI/target/surefire-reports/passed.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testUI/target/surefire-reports/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testUI/src/test/config.tld">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testUI/src/test/config/settings.tld">
+    <entry file="file://$PROJECT_DIR$/testUI/src/test/java/common/FileReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="442">
+          <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+          <folding>
+            <element signature="e#910#911#0" expanded="true" />
+            <element signature="e#965#966#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/Properties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="967" column="18" selection-start-line="967" selection-start-column="18" selection-end-line="967" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testAPI/src/test/java/base/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testAPI/src/test/java/base/FileReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="31" selection-start-line="9" selection-end-line="10" />
+          <folding>
+            <element signature="e#911#912#0" expanded="true" />
+            <element signature="e#966#967#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3-sources.jar!/org/testng/internal/Invoker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="635" selection-start-line="635" selection-end-line="635" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/rest-assured/json-schema-validator/4.1.2/json-schema-validator-4.1.2.jar!/io/restassured/module/jsv/JsonSchemaValidator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="51" column="38" selection-start-line="51" selection-start-column="38" selection-end-line="51" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3-sources.jar!/org/testng/SuiteRunnerWorker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="51" column="16" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testAPI/src/test/java/base/PUTMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/testUI/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        <state relative-caret-position="442">
+          <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="44" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testAPI/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="59" column="31" selection-start-line="59" selection-start-column="31" selection-end-line="59" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testAPI/src/test/resources/employeeSchema.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testAPI/src/test/resources/ConfigAPI.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testAPI/src/test/java/tests/SchemaTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testAPI/target/test-classes/employeeSchema.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testAPI/target/test-classes/ConfigAPI.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="22" selection-start-line="6" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testUI/src/test/java/pageObjects/BasePO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="35" column="52" selection-start-line="35" selection-start-column="52" selection-end-line="35" selection-end-column="52" />
+          <folding>
+            <element signature="e#570#571#0" expanded="true" />
+            <element signature="e#621#622#0" expanded="true" />
+            <element signature="e#961#962#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testUI/src/test/java/tests/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="29" column="2" selection-start-line="29" selection-start-column="2" selection-end-line="63" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testUI/src/test/java/common/DataVariables.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testAPI/src/test/java/base/TestDataVariables.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#205#213#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testAPI/src/test/java/base/BaseClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="63" lean-forward="true" selection-start-line="9" selection-start-column="63" selection-end-line="9" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testAPI/src/test/java/base/PrerequisteMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testAPI/src/test/java/tests/CreateTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testAPI/src/test/java/tests/DeleteTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testAPI/src/test/java/tests/ReadTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testAPI/src/test/java/tests/UpdateTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="27" column="48" lean-forward="true" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
