@@ -3,6 +3,8 @@ package pageObjects;
 import common.DataVariables;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.testng.Assert;
 
 public class ProductPO extends BasePO {
@@ -11,6 +13,8 @@ public class ProductPO extends BasePO {
         super(driver);
 
     }
+
+    private static final Logger logger = LoggerFactory.getLogger( ProductPO.class);
 
     /*---------------------------- Web Elements -----------------------------*/
 
@@ -28,6 +32,8 @@ public class ProductPO extends BasePO {
         clickElement(addToCartButton);
         waitElement(confirmAddToCartButton);
         clickElement(confirmAddToCartButton);
+        logger.info( "..............Product added to backet............." );
+
     }
 
     public String getProductPageTitle() {

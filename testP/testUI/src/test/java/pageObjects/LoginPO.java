@@ -1,10 +1,9 @@
 package pageObjects;
 
-import common.FileReader;
 import junit.framework.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.testng.log4testng.Logger;
+
 
 public class LoginPO extends BasePO {
     public LoginPO(WebDriver driver) {
@@ -13,7 +12,6 @@ public class LoginPO extends BasePO {
 
     Modals modal = new Modals(driver);
     NavigationBarPO navbar = new NavigationBarPO(driver);
-    private static final Logger LOGGER = Logger.getLogger(HomePagePO.class);
 
     /*---------------------------- Web Elements -----------------------------*/
 
@@ -26,12 +24,6 @@ public class LoginPO extends BasePO {
     By errorMessage = By.className("message-error");
 
     /*---------------------------- Web Methods -----------------------------*/
-    public void openLoginPage() {
-        FileReader fileReader = new FileReader();
-        String url = fileReader.getProperty("loginUrl");
-        driver.get(url);
-        LOGGER.debug("..............Page " + url + " is Launched.............");
-    }
 
     public void loginWithCredentials(String username, String password) {
         modal.acceptCookie();

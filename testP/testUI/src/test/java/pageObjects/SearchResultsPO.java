@@ -4,14 +4,17 @@ import common.DataVariables;
 import junit.framework.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 public class SearchResultsPO extends BasePO {
 
 
     public SearchResultsPO(WebDriver driver) {
         super(driver);
-
     }
+    private static final Logger logger = LoggerFactory.getLogger( SearchResultsPO.class);
+
 
     /*---------------------------- Web Elements -----------------------------*/
 

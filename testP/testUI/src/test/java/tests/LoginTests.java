@@ -14,14 +14,14 @@ public class LoginTests extends BaseTest{
         String password = fileReader.getProperty("password");
         String nameOfUser = fileReader.getProperty("nameOfUser");
 
-        loginPage.openLoginPage();
+        loginPage.openPage("loginUrl");
         loginPage.loginWithCredentials(username,password);
         loginPage.checkLoginIsSuccessful(nameOfUser);
     }
 
     @Test
     public void loginWithNonMatchingCredentials() {
-        loginPage.openLoginPage();
+        loginPage.openPage("loginUrl");
         loginPage.loginWithCredentials("badusername@test.com","somePassword");
         loginPage.validateNonMatchingCredentiaslErrorMessage();
     }
@@ -34,7 +34,7 @@ public class LoginTests extends BaseTest{
         String password = fileReader.getProperty("password");
         String nameOfUser = fileReader.getProperty("nameOfUser");
 
-        loginPage.openLoginPage();
+        loginPage.openPage("loginUrl");
         loginPage.loginWithCredentials(username,password);
         loginPage.checkLoginIsSuccessful(nameOfUser);
     }

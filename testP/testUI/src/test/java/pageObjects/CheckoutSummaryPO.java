@@ -5,19 +5,19 @@ import org.openqa.selenium.WebDriver;
 
 public class CheckoutSummaryPO extends BasePO {
 
-    public CheckoutSummaryPO(WebDriver driver) {
-        super(driver);
-    }
+	public CheckoutSummaryPO( WebDriver driver ) {
+		super( driver );
+	}
 
-    /*---------------------------- Web Elements -----------------------------*/
+	/*---------------------------- Web Elements -----------------------------*/
 
-    By nextButton = By.id("go_to_next_step");
+	By nextButton = By.id( "go_to_next_step" );
 
 
-    /*---------------------------- Web Methods -----------------------------*/
+	/*---------------------------- Web Methods -----------------------------*/
 
-    public void selectGoToNextStep() {
-        waitElement(nextButton);
-        clickElement(nextButton);
-    }
+	public void selectGoToNextStep() {
+		waitElement( nextButton );
+		clickElement( nextButton );
+	}
 }

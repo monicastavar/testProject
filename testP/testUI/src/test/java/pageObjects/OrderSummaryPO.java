@@ -2,12 +2,16 @@ package pageObjects;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 public class OrderSummaryPO extends BasePO {
 
     public OrderSummaryPO(WebDriver driver){
         super(driver);
     }
+
+    private static final Logger logger = LoggerFactory.getLogger( OrderSummaryPO.class);
 
     /*---------------------------- Web Elements -----------------------------*/
 
@@ -19,5 +23,7 @@ public class OrderSummaryPO extends BasePO {
     public void clickOnGoToCheckout() {
         waitElement(goToCheckoutButton);
         clickElement(goToCheckoutButton);
+        logger.info( "..............Checkout started............." );
+
     }
 }

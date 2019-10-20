@@ -7,7 +7,7 @@ public class SearchTests extends BaseTest {
     @Test
     public void searchMobileItems() {
 
-        homePage.openHomePage();
+        homePage.openPage("url");
         navigationBar.searchForMatchingProducts("mobile");
         searchResultsPage.verifySearchResultPageIsOpened();
     }

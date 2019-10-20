@@ -8,7 +8,7 @@ public class CheckoutTests extends BaseTest {
    payment Method” Page (“Zahlungsart wählen”). You do not need to purchase a product. */
     @Test
     public void validateCheckoutProcess() {
-        homePage.openHomePage();
+        homePage.openPage("url");
         homePage.selectFirstProduct();
         productPage.addProductToBasket();
         shopcartPage.checkShopcart();

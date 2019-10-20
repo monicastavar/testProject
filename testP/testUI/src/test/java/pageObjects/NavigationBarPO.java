@@ -12,12 +12,12 @@ import java.util.List;
 
 public class NavigationBarPO extends BasePO {
 
-    private final Logger LOGGER = LoggerFactory.getLogger(HomePagePO.class);
-
     public NavigationBarPO(WebDriver driver) {
         super(driver);
-
 }
+
+    private static final Logger logger = LoggerFactory.getLogger( NavigationBarPO.class);
+
 
     /*---------------------------- Web Elements -----------------------------*/
 
@@ -35,7 +35,9 @@ public class NavigationBarPO extends BasePO {
 
 
     private List<WebElement> searchMatchingProducts(String searchTerm) {
+        logger.info( "..............Search for " + searchTerm +"............." );
         inputText(searchBox, searchTerm);
+        logger.info( "..............Waiting for suggestion lists to load............." );
         By suggestionList = By.xpath("//*[contains(text(),'" + searchTerm + "')]");
         waitElement(suggestionList);
         return driver.findElements(suggestionList);
@@ -44,8 +46,8 @@ public class NavigationBarPO extends BasePO {
     private void selectSomeProductFromList(List<WebElement> list) {
         WebElement product = list.get(list.size() / 2);
         DataVariables.setProduct(product.getText());
-        LOGGER.debug("..............Clicking on " + product.getText() + " from suggestion list.");
         product.click();
+        logger.info( "..............Clicking on \" + product.getText() + \" ............." );
     }
 
     private void clickOnSearch() {
