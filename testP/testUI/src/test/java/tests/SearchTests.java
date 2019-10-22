@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 public class SearchTests extends BaseTest {
 
-    @Test
+    @Test (groups = { "include" })
     public void searchMobileItems() {
 
         homePage.openPage("url");

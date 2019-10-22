@@ -1,0 +1,9 @@
+<suite name="Group of group Suite" verbose="1">
+    <test name="API Tests">
+        <classes>
+            <class name="tests.CreateTests" />
+            <class name="tests.UpdateTests" />
+            <class name="tests.DeleteTests" />
+        </classes>
+    </test>
+</suite>

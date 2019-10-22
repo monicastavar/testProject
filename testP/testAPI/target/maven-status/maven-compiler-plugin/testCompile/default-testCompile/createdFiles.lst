@@ -1,8 +1,0 @@
-base\PrerequisteMethods.class
-tests\UpdateTests.class
-base\BaseClass.class
-tests\CreateTests.class
-tests\DeleteTests.class
-base\FileReader.class
-base\TestDataVariables.class
-tests\ReadTests.class
