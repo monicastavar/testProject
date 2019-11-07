@@ -12,13 +12,13 @@ public class PaymentMethodPO extends BasePO {
 
     /*---------------------------- Web Elements -----------------------------*/
 
-    By paymentPageHeader = By.id("credit_card_header");
+    By paymentPageHeader = By.cssSelector("*[action='/checkout/payment']");
 
     /*---------------------------- Web Methods -----------------------------*/
 
     public void checkPaymentMethodIsDisplayed() {
 
-        Assert.assertTrue(visibilityOfElement(paymentPageHeader), "Payment page header is snot visible.");
+        Assert.assertTrue(visibilityOfElement(paymentPageHeader), "Payment page header is not visible.");
 
 
     }

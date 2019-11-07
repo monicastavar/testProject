@@ -17,6 +17,6 @@ public class CheckoutTests extends BaseTest {
         checkoutSummaryPage.selectGoToNextStep();//
         checkoutAddressPage.fillInAddressForm();
         checkoutSummaryPage.selectGoToNextStep();
-        paymentMethodPage.checkPaymentMethodIsDisplayed();
+        paymentMethodPage.checkPaymentMethodIsDisplayed(); //form changed? + after selection the page freezes
     }
 }

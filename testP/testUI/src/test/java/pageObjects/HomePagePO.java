@@ -18,7 +18,7 @@ public class HomePagePO extends BasePO {
 	/*---------------------------- Web Elements -----------------------------*/
 
 	By firstSuggestedName = By.xpath( "(.//*[@class=\"vw-productSlider\"]//div[@class=\"name\"])[1]" );
-	By firstSuggestedProduct = By.xpath( "(.//*[@class=\"vw-productSlider\"]//a)[1]" );
+	By firstSuggestedProduct = By.xpath( "(.//*[@class=\"vw-productSlider\"]//a)[2]" );
 
 	/*---------------------------- Web Methods -----------------------------*/
 

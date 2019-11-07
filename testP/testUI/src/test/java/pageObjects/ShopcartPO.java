@@ -19,7 +19,9 @@ public class ShopcartPO extends BasePO {
     /*---------------------------- Web Methods -----------------------------*/
     public void checkShopcart() {
         waitElement(itemName);
+        int lastIndex = DataVariables.getProduct().length()-4;
+
         String itemNameText = getTextOfElement(itemName);
-        Assert.assertEquals("Checkout product is listed with another name", DataVariables.getProduct().substring(0,60),itemNameText.substring(0,60));
+        Assert.assertEquals("Checkout product is listed with another name", DataVariables.getProduct().substring(0,lastIndex),itemNameText.substring(0,lastIndex));
     }
 }

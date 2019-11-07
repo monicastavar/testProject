@@ -30,7 +30,7 @@ public class ProductPO extends BasePO {
     public void addProductToBasket() {
         checkCorrectProductPageIsOpened();
         clickElement(addToCartButton);
-        waitElement(confirmAddToCartButton);
+        waitElementToBeClickable(confirmAddToCartButton);
         clickElement(confirmAddToCartButton);
         logger.info( "..............Product added to backet............." );
 
@@ -41,7 +41,8 @@ public class ProductPO extends BasePO {
     }
 
     public void checkCorrectProductPageIsOpened() {
-        Assert.assertEquals(getProductPageTitle().substring(0, 60), DataVariables.getProduct().substring(0, 60), "Different product title is displayed on product page.");
+        int lastIndex = DataVariables.getProduct().length()-4;
+        Assert.assertEquals(getProductPageTitle().substring(0, lastIndex), DataVariables.getProduct().substring(0, lastIndex), "Different product title is displayed on product page.");
     }
 
 }

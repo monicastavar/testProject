@@ -23,6 +23,11 @@ public class BasePO {
 		wait.until( ExpectedConditions.visibilityOfElementLocated( locator ) );
 	}
 
+	public void waitElementToBeClickable( By locator ) {
+		wait.until( ExpectedConditions.visibilityOfElementLocated( locator ) );
+		wait.until( ExpectedConditions.elementToBeClickable( locator ) );
+	}
+
 	public void clickElement( By locator ) {
 		driver.findElement( locator ).click();
 	}

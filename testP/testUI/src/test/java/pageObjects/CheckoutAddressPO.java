@@ -31,6 +31,7 @@ public class CheckoutAddressPO extends BasePO {
 	By firstDay = By.cssSelector( "#invoice-day-container a[index='1']" );
 	By firstMonth = By.cssSelector( "#invoice-month-container a[index='1']" );
 	By firstYear = By.cssSelector( "#invoice-year-container a[index='1']" );
+	By phoneNumber = By.id( "phone" );
 
 	/*---------------------------- Web Methods -----------------------------*/
 
@@ -49,6 +50,7 @@ public class CheckoutAddressPO extends BasePO {
 		inputText( streetNameInputField, "Auf der Ziehmark" );
 		inputText( streetNoInputField, "8" );
 		inputText( emailInputField, "test@test.com" );
+		inputText(phoneNumber, "1111111111");
 		inputText( zipCodeInputField, "35075" );
 		inputText( cityInputField, "Gladenbach" );
 

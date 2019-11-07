@@ -1,9 +1,7 @@
-/target/
 .idea/
-/logfile.log
-/src/test/test.iml
-/csop-automation-api/csop-automation-api.iml
-/csop-automation-ui/csop-automation-ui.iml
-csop-automation.iml
-/csop-automation-ui/target
-/csop-automation-api/target
+/testAPI/testAPI.iml
+/testUI/testUI.iml
+testProj.iml
+testP.iml
+/testUI/target
+/testAPI/target
